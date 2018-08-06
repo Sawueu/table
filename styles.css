@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    background-color: darkgrey;
+    font-family: 'Kirang Haerang', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h1, h2{
+    color: red;
+    text-align: center;
+    font-weight: 400;
+}
